@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Clickable URLs",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"JsFormat",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeTmpl",
+		"SyncedSideBar",
+		"Terminal",
+		"Vue Syntax Highlight",
+		"WakaTime",
+		"WordCount",
+		"YUI Compressor"
+	]
+}
